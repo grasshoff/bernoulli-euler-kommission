@@ -3,15 +3,24 @@ project:
 
 website:
   title: "bernoulli-euler-kommission"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-
+  sidebar:
+    style: "docked"
+    border: true
+    collapse-level: 4
+    search: false
+    contents:
+      - section: "General"
+        contents:
+          - todo.qmd
+      - section: "Euler"
+        contents:
+          - Euler.qmd
+      - section: "Bernoulli"
+        contents:
+          - Bernoulli.qmd
 format:
   html:
-    theme: cosmo
+    theme: journal
     css: styles.css
     toc: true
 

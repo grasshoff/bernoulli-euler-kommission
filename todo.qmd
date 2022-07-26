@@ -1,0 +1,21 @@
+# Todo
+
+## Euler
+
+- Transfer
+    - 
+
+- Archive
+
+- Daten
+    - Eneström Verzeichnis
+    - Euler Opera Omnia DB
+    - Verzeichnis Briefe
+    - Register
+        - Personenverzeichnisse
+        - Geolokalisationen
+        - Sachregister 
+    - Bibliographien
+        - bibtex Daten
+          - JSTOR secondary literature
+          - dimension.io

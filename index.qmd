@@ -1,5 +1,5 @@
 ---
-title: "bernoulli-euler-kommission"
+title: "Bernoulli-Euler-Kommission"
 ---
 
-Website for the Bernoulli-Euler-Kommission of the Bernoulli-Euler-Gesellschaft - a non-profit organization that is dedicated to the promotion of the scientific contribution of the Bernoulli family members and Leonhard Euler.
+The Bernoulli-Euler-Kommission of the Bernoulli-Euler-Gesellschaft is the scientific society of the *Swiss Academie of Science* (SCNAT) which is dedicated to the promotion of the scientific contribution of members of the Bernoulli family members and Leonhard Euler.
