@@ -2,6 +2,4 @@
 title: "bernoulli-euler-kommission"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Website for the Bernoulli-Euler-Kommission of the Bernoulli-Euler-Gesellschaft - a non-profit organization that is dedicated to the promotion of the scientific contribution of the Bernoulli family members and Leonhard Euler.
