@@ -21,10 +21,17 @@
     "text": "Website"
   },
   {
+    "objectID": "quarto_ext.html",
+    "href": "quarto_ext.html",
+    "title": "Bernoulli-Euler-Kommission",
+    "section": "",
+    "text": "https://meghan.rbind.io/blog/quarto-slides/#finding-elements-to-customize\nA box with text and style in curly braces\n\n\n\nMathJax rendering of equations to HTML\n\n\n\\begin{gather*}\na_1=b_1+c_1\\\\\na_2=b_2+c_2-d_2+e_2\n\\end{gather*}\n\\begin{align}\na_{11}& =b_{11}&\n  a_{12}& =b_{12}\\\\\na_{21}& =b_{21}&\n  a_{22}& =b_{22}+c_{22}\n\\end{align}\n\n\\[\\begin{gather*}\na_1=b_1+c_1\\\\\na_2=b_2+c_2-d_2+e_2\n\\end{gather*}\\]\n\\[\\begin{align}\na_{11}& =b_{11}&\n  a_{12}& =b_{12}\\\\\na_{21}& =b_{21}&\n  a_{22}& =b_{22}+c_{22}\n\\end{align}\\]\n\n\n\nLearn more: LaTeX Equations\n\n\n\n\nArrange content into columns of varying widths:\n\n\n\n\nThe data was extracted from the 1974 Motor Trend US magazine, and comprises fuel consumption and 10 aspects of automobile design and performance for 32 automobiles.\n\n\n\n\n\n\n\n\nLearn more: Multiple Columns\n\n\n\n\nLists can optionally be displayed incrementally:\n\n\nFirst item\nSecond item\nThird item\n\n\n\n Insert pauses to make other types of content display incrementally.\n\nLearn more: Incremental Lists\n\n\n\n\n\nIncremental text display and animation with fragments:\n\n\nFade in\n\n\nSlide up while fading in\n\n\nSlide left while fading in\n\n\nFade in then semi out\n\n\n\nStrike\n\n\nHighlight red\n\n\nLearn more: Fragments"
+  },
+  {
     "objectID": "todo.html",
     "href": "todo.html",
     "title": "Bernoulli-Euler-Kommission",
     "section": "",
-    "text": "Transfer\n\nUnfinished correspondence\n\nPolicies\nDocuments\nReglemente\nArchives\ndata\n\nEneström\nEuler Opera Omnia\nCorrespondence\nRegisters\n\nPerson index\nGeo-location index\nSubject index\n\nBibliographies\n\nbibtex data\n\nJSTOR secondary literature\ndimension.io"
+    "text": "Transfer\n\nUnfinished correspondence\n\nPolicies\nDocuments\nReglemente\nArchives\ndata\n\nEneström\nEuler Opera Omnia\nCorrespondence\nRegisters\n\nPerson index\nGeo-location index\nSubject index\n\nBibliographies\n\nbibtex data\n\nJSTOR secondary literature\ndimension.io\n\n\n\n\n\n\n\nextand publications Euler (Verdun), II.28?\ncorrespondence\nmanuscripts\ndata\ndigital platform"
   }
 ]
