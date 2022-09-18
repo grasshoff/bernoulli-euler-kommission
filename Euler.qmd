@@ -1,15 +1,13 @@
-# Publikation Series
+# Euler Opera Omnia Series
 
-## Completed
+### Series
 
-- Series Prima
+- Series Prima          Mathematics
+- Series Secunda        Physics
+- Series Tertia         Mechanics, Astronomy
+- Series Quarta         Correspondence
+- Series Quinta         Manuscripts
+- Series Sexta          Data
 
-- Series Secunda
 
-- Series Tertia
 
-## In Progress
-
-- Series Quarta
-
-- Series Quinta

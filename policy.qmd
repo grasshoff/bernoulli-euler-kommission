@@ -1,0 +1,58 @@
+# Publication policy
+
+0) Editorial board: Bernoulli-Euler-Kommission
+
+## Series Quarta, Correspondence
+
+1) $\LaTeX class$ the same for all volumes
+   - Manuscripts can be submitted in various formats
+     - Markdown (Quarto)
+     - LaTeX Overleaf
+2) Uniform font size, title page and page layout for all volumes
+3) Hybrid publication by different media titles, page identical content
+   - digital (BEG, Uni Basel, UB), ISSN
+   - print (Publisher to be negotiated), ISBN
+   - computational book, ISBN
+4) New volumes increase the series IVA counter 
+    - E.g. Euler-Condorcet becomes IVA 9
+    - Followed e.g. Euler-alia, IVA 10
+5) Only internal links, no external links
+
+
+## Bibliographical reference
+
+Sample Reference (see also Appendix) of @Euler-Condorcet, p.12.
+
+[Fields](https://quarto.org/docs/reference/metadata/citation.html)
+[Biblatex](http://mirrors.ibiblio.org/CTAN/info/translations/biblatex/de/biblatex-de-Benutzerhandbuch.pdf)
+
+```
+@book{Euler-Condorcet,
+  editor = {Christian Gilain and Vanja Hug and Pierre Taton},
+  title = {Correspondance {de} Leonhard Euler {avec} {M.J.A.N. Caritat}, {Marquis de Condorcet} {et A.R.J. Turgot}},
+  subtitle = {Euler Opera Omnia, Series Quarta {IVA 9}},
+  series = {Publikationen {des} Bernoulli-Euler-Zentrums},
+  issn = {0036-8075-5},
+  volume = {5},
+  year = {2022},
+  abstract = {},
+  keywords = {},
+  publisher = {Bernoulli-Euler-Gesellschaft},
+  address = {Basel},
+  isbn = {978-3-540-74400-2},
+  doi = {10.1007/BF01897804},
+  url = {http://doi.org/10.1007/BF01897804},
+  note = {},
+  language = {English},
+  }
+```
+
+## Series Sexta, Data
+
+1) Published on Zenodo in moderated community "Bernoulli-Euler-Kommission"
+    - EOO database 
+    - Eneström database
+    - BibTex database
+    - OWL ontology
+       - Person
+       - Geolocation

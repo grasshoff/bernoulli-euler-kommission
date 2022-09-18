@@ -1,28 +1,47 @@
 project:
   type: website
 
+
 website:
-  title: "bernoulli-euler-kommission"
+  title: "Bernoulli-Euler-Kommission"
   sidebar:
-    style: "docked"
-    border: true
+    border: false
     collapse-level: 4
     search: false
+    background: lightgrey
     contents:
-      - section: "General"
+      - section: "Kommission"
         contents:
-          - todo.qmd
+          - member.qmd
       - section: "Euler"
         contents:
           - Euler.qmd
-      - section: "Bernoulli"
+          - euleroo.qmd
+          - policy.qmd
+      - section: "Appendix"
         contents:
-          - Bernoulli.qmd
+          - todo.qmd
+          - quarto_ext.qmd
+  page-footer:
+    left: "© Copyright 2022 Gerd Graßhoff. Except where otherwise noted, all text and images licensed CC-BY-NC 4.0."
+
+
 format:
   html:
-    theme: journal
+    theme: [sandstone,_variables.scss]
     css: styles.css
-    toc: true
-
-
-
+    page-layout: full
+    toc: false
+    fontsize: 1.1em
+    linestretch: 1.7
+    max-width: 2000px
+    margin-right: 0px
+    smooth-scroll: true
+    toc-location: left
+    code-fold: true
+    bibliography: euler.bib
+    citeproc: true
+    citations-hover: true
+    citation-location: margin
+#    csl: elsevier-with-titles-alphabetical
+#    csl: nature

@@ -1,21 +1,37 @@
-# Todo
+# Todo / Ideas / Notes
 
 ## Euler
 
 - Transfer
-    - 
+    - Unfinished correspondence
 
-- Archive
+- Policies
 
-- Daten
-    - Eneström Verzeichnis
-    - Euler Opera Omnia DB
-    - Verzeichnis Briefe
-    - Register
-        - Personenverzeichnisse
-        - Geolokalisationen
-        - Sachregister 
-    - Bibliographien
-        - bibtex Daten
+- Documents
+
+- Reglemente 
+
+- Archives
+
+- data
+    - Eneström 
+    - Euler Opera Omnia
+    - Correspondence
+    - Registers
+        - Person index
+        - Geo-location index
+        - Subject index
+    - Bibliographies
+        - bibtex data
           - JSTOR secondary literature
           - dimension.io
+
+### Projects
+
+- extand publications Euler (Verdun), II.28?
+- correspondence
+- manuscripts
+- data
+- digital platform
+
+
