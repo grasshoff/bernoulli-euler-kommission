@@ -4,7 +4,7 @@
     "href": "Euler.html",
     "title": "Bernoulli-Euler-Kommission",
     "section": "",
-    "text": "Series Prima Mathematics\nSeries Secunda Physics\nSeries Tertia Mechanics, Astronomy\nSeries Quarta Correspondence\nSeries Quinta Manuscripts\nSeries Sexta Data"
+    "text": "Series Prima Mathematics\nSeries Secunda Physics\nSeries Tertia Mechanics, Astronomy\nSeries Quarta A Correspondence\nSeries Quarta B Manuscripts\nSeries Quinta Data"
   },
   {
     "objectID": "todo.html",
@@ -18,7 +18,7 @@
     "href": "member.html",
     "title": "Bernoulli-Euler-Kommission",
     "section": "",
-    "text": "Prof. Dr. Gerd Graßhoff\n\nHumboldt Universität zu Berlin\ngerd.grasshoff@hu-berlin.de\n\nProf. Dr. Norbert Schappacher\n\nUniversité de Strasbourg\nn.schappacher@unistra.fr\n\nProf. Dr. Jeanne Peiffer\n\nCNRS, Cenre Alexandre Koyré\njeanne.peiffer@cnrs.fr\n\nDr. Dirk Wintergrün\n\nKlassik Stiftung Weimar\ndirk.wintergruen@klassik-stiftung.de\n\nDr. Philip Beeley\n\nUniversity of Oxford\nphilip.beeley@history.ox.ac.uk\n\nProf. Dr. Maarten Bullynck\n\nUniversité de Paris VIII (St. Denis)\nmaarten.bullynck@univ-paris8.fr"
+    "text": "Dr. Philip Beeley\n\nUniversity of Oxford\nphilip.beeley@history.ox.ac.uk\n\nDr. Maarten Bullynck (Maître de conférences)\n\nUniversité de Paris VIII (St. Denis)\nmaarten.bullynck@univ-paris8.fr\n\nProf. Dr. Gerd Graßhoff\n\nHumboldt Universität zu Berlin\ngerd.grasshoff@hu-berlin.de\n\nProf. Dr. Helmuth Harbrecht\n\nUniversität Basel\nhelmut.harbrecht@unibas.ch\n\nDr. Jeanne Peiffer (DR, directrice de recherche)\n\nCNRS, Cenre Alexandre Koyré\njeanne.peiffer@cnrs.fr\n\nDr. Alice Keller\n\nUniversitätsbibliothek Basel\n\nProf. Dr. Norbert Schappacher\n\nUniversité de Strasbourg\nn.schappacher@unistra.fr\n\nDr. Dirk Wintergrün\n\nKlassik Stiftung Weimar\ndirk.wintergruen@klassik-stiftung.de"
   },
   {
     "objectID": "series.html",
@@ -75,5 +75,12 @@
     "title": "Bernoulli-Euler-Kommission",
     "section": "Fragments",
     "text": "Fragments\nIncremental text display and animation with fragments:\n\n\nFade in\n\n\nSlide up while fading in\n\n\nSlide left while fading in\n\n\nFade in then semi out\n\n\n\nStrike\n\n\nHighlight red\n\n\nLearn more: Fragments"
+  },
+  {
+    "objectID": "OperaBernoulliEuler.html",
+    "href": "OperaBernoulliEuler.html",
+    "title": "Bernoulli-Euler-Kommission",
+    "section": "",
+    "text": "https://vimeo.com/751590255/f47c3343ad"
   }
 ]
