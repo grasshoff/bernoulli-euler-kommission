@@ -1,31 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://grasshoff.github.io/bernoulli-euler-kommission/about.html</loc>
-    <lastmod>2022-07-27T06:45:56.000Z</lastmod>
-  </url>
-  <url>
     <loc>https://grasshoff.github.io/bernoulli-euler-kommission/Euler.html</loc>
-    <lastmod>2022-07-27T06:45:57.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://grasshoff.github.io/bernoulli-euler-kommission/euleroo.html</loc>
-    <lastmod>2022-07-27T06:45:57.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://grasshoff.github.io/bernoulli-euler-kommission/index.html</loc>
-    <lastmod>2022-07-27T06:45:58.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://grasshoff.github.io/bernoulli-euler-kommission/member.html</loc>
-    <lastmod>2022-07-27T06:45:58.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://grasshoff.github.io/bernoulli-euler-kommission/quarto_ext.html</loc>
-    <lastmod>2022-07-27T06:45:59.000Z</lastmod>
+    <lastmod>2022-09-20T08:11:53.352Z</lastmod>
   </url>
   <url>
     <loc>https://grasshoff.github.io/bernoulli-euler-kommission/todo.html</loc>
-    <lastmod>2022-07-27T06:45:59.000Z</lastmod>
+    <lastmod>2022-09-20T08:11:53.774Z</lastmod>
+  </url>
+  <url>
+    <loc>https://grasshoff.github.io/bernoulli-euler-kommission/member.html</loc>
+    <lastmod>2022-09-20T08:11:54.188Z</lastmod>
+  </url>
+  <url>
+    <loc>https://grasshoff.github.io/bernoulli-euler-kommission/series.html</loc>
+    <lastmod>2022-09-20T08:11:54.578Z</lastmod>
+  </url>
+  <url>
+    <loc>https://grasshoff.github.io/bernoulli-euler-kommission/euleroo.html</loc>
+    <lastmod>2022-09-20T08:11:54.927Z</lastmod>
+  </url>
+  <url>
+    <loc>https://grasshoff.github.io/bernoulli-euler-kommission/index.html</loc>
+    <lastmod>2022-09-20T08:11:55.241Z</lastmod>
+  </url>
+  <url>
+    <loc>https://grasshoff.github.io/bernoulli-euler-kommission/about.html</loc>
+    <lastmod>2022-09-20T08:11:55.555Z</lastmod>
+  </url>
+  <url>
+    <loc>https://grasshoff.github.io/bernoulli-euler-kommission/quarto_ext.html</loc>
+    <lastmod>2022-09-20T08:11:56.251Z</lastmod>
   </url>
 </urlset>

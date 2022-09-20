@@ -1,24 +1,45 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
     "objectID": "Euler.html",
     "href": "Euler.html",
     "title": "Bernoulli-Euler-Kommission",
     "section": "",
-    "text": "Series Prima\nSeries Secunda\nSeries Tertia\nSeries Quarta. Correspondence\nSeries Quinta. Manuscripts\nSeries Sexta. Data"
+    "text": "Series Prima Mathematics\nSeries Secunda Physics\nSeries Tertia Mechanics, Astronomy\nSeries Quarta Correspondence\nSeries Quinta Manuscripts\nSeries Sexta Data"
+  },
+  {
+    "objectID": "todo.html",
+    "href": "todo.html",
+    "title": "Bernoulli-Euler-Kommission",
+    "section": "",
+    "text": "Transfer\n\nUnfinished correspondence\n\nPolicies\nDocuments\nReglemente\nArchives\ndata\n\nEneström\nEuler Opera Omnia\nCorrespondence\nRegisters\n\nPerson index\nGeo-location index\nSubject index\n\nBibliographies\n\nbibtex data\n\nJSTOR secondary literature\ndimension.io\n\n\n\n\n\n\n\nextand publications Euler (Verdun), II.28?\ncorrespondence\nmanuscripts\ndata\ndigital platform"
+  },
+  {
+    "objectID": "member.html",
+    "href": "member.html",
+    "title": "Bernoulli-Euler-Kommission",
+    "section": "",
+    "text": "Prof. Dr. Gerd Graßhoff\n\nHumboldt Universität zu Berlin\ngerd.grasshoff@hu-berlin.de\n\nProf. Dr. Norbert Schappacher\n\nUniversité de Strasbourg\nn.schappacher@unistra.fr\n\nProf. Dr. Jeanne Peiffer\n\nCNRS, Cenre Alexandre Koyré\njeanne.peiffer@cnrs.fr\n\nDr. Dirk Wintergrün\n\nKlassik Stiftung Weimar\ndirk.wintergruen@klassik-stiftung.de\n\nDr. Philip Beeley\n\nUniversity of Oxford\nphilip.beeley@history.ox.ac.uk\n\nProf. Dr. Maarten Bullynck\n\nUniversité de Paris VIII (St. Denis)\nmaarten.bullynck@univ-paris8.fr"
+  },
+  {
+    "objectID": "series.html",
+    "href": "series.html",
+    "title": "Bernoulli-Euler-Kommission",
+    "section": "",
+    "text": "Editorial board: Bernoulli-Euler-Kommission\n\n\n\n\n\n\n\n\\(\\LaTeX class\\) the same for all volumes\n\nManuscripts can be submitted in various formats\n\nMarkdown (Quarto)\nLaTeX Overleaf\n\n\nUniform font size, title page and page layout for all volumes\nHybrid publication by different media titles, page identical content\n\ndigital (BEG, Uni Basel, UB), ISSN\nprint (Publisher to be negotiated), ISBN\ncomputational book, ISBN\n\nNew volumes increase the series IVA counter\n\nE.g. Euler-Condorcet becomes IVA 9\nFollowed e.g. Euler-alia, IVA 10\n\nOnly internal links, no external links\n\n\n\n\nSample Reference (see also Appendix) of Gilain, Hug, and Taton (2022), p.12.\n\nGilain, Christian, Vanja Hug, and Pierre Taton, eds. 2022. Correspondance de Leonhard Euler avec M.J.A.N. Caritat, Marquis de Condorcet et A.R.J. Turgot: Euler Opera Omnia, Series Quarta IVA 9. Vol. 5. Publikationen des Bernoulli-Euler-Zentrums. Basel: Bernoulli-Euler-Gesellschaft. https://doi.org/10.1007/BF01897804.\nFields Biblatex\n@book{Euler-Condorcet,\n  editor = {Christian Gilain and Vanja Hug and Pierre Taton},\n  title = {Correspondance {de} Leonhard Euler {avec} {M.J.A.N. Caritat}, {Marquis de Condorcet} {et A.R.J. Turgot}},\n  subtitle = {Euler Opera Omnia, Series Quarta {IVA 9}},\n  series = {Publikationen {des} Bernoulli-Euler-Zentrums},\n  issn = {0036-8075-5},\n  volume = {5},\n  year = {2022},\n  abstract = {},\n  keywords = {},\n  publisher = {Bernoulli-Euler-Gesellschaft},\n  address = {Basel},\n  isbn = {978-3-540-74400-2},\n  doi = {10.1007/BF01897804},\n  url = {http://doi.org/10.1007/BF01897804},\n  note = {},\n  language = {English},\n  }\n\n\n\n\n\n\n\n\nPublished on Zenodo in moderated community “Bernoulli-Euler-Kommission”\n\nEOO database\nEneström database\nBibTex database\nOWL ontology\n\nPerson\nGeolocation"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Bernoulli-Euler-Kommission",
     "section": "",
-    "text": "Website"
+    "text": "The Bernoulli-Euler-Kommission of the Bernoulli-Euler-Gesellschaft is the scientific board of the society of the Swiss Academie of Science (SCNAT) dedicated to the promotion of the scientific contribution of Leonhard Euler and members of the Bernoulli family."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
   },
   {
     "objectID": "quarto_ext.html",
@@ -54,12 +75,5 @@
     "title": "Bernoulli-Euler-Kommission",
     "section": "Fragments",
     "text": "Fragments\nIncremental text display and animation with fragments:\n\n\nFade in\n\n\nSlide up while fading in\n\n\nSlide left while fading in\n\n\nFade in then semi out\n\n\n\nStrike\n\n\nHighlight red\n\n\nLearn more: Fragments"
-  },
-  {
-    "objectID": "todo.html",
-    "href": "todo.html",
-    "title": "Bernoulli-Euler-Kommission",
-    "section": "",
-    "text": "Transfer\n\nUnfinished correspondence\n\nPolicies\nDocuments\nReglemente\nArchives\ndata\n\nEneström\nEuler Opera Omnia\nCorrespondence\nRegisters\n\nPerson index\nGeo-location index\nSubject index\n\nBibliographies\n\nbibtex data\n\nJSTOR secondary literature\ndimension.io\n\n\n\n\n\n\n\nextand publications Euler (Verdun), II.28?\ncorrespondence\nmanuscripts\ndata\ndigital platform"
   }
 ]
