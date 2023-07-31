@@ -1,38 +1,10 @@
 [
   {
-    "objectID": "Euler.html",
-    "href": "Euler.html",
-    "title": "Bernoulli-Euler-Kommission",
+    "objectID": "OperaBernoulliEuler.html",
+    "href": "OperaBernoulliEuler.html",
+    "title": "Opera Bernoulli Euler digital",
     "section": "",
-    "text": "Series\nSerie Prima | Mathematics |\nSerie Secunda | Physics |\nSerie Tertia | Mechanics, Astronomy |\nSerie Quarta A | Correspondence |\nSerie Quarta B | Manuscripts |\nSerie Quinta | Data |\nSerie Sexta | Contributions |"
-  },
-  {
-    "objectID": "todo.html",
-    "href": "todo.html",
-    "title": "Bernoulli-Euler-Kommission",
-    "section": "",
-    "text": "Transfer\n\nUnfinished correspondence\n\nPolicies\nDocuments\nReglemente\nArchives\ndata\n\nEneström\nEuler Opera Omnia\nCorrespondence\nRegisters\n\nPerson index\nGeo-location index\nSubject index\n\nBibliographies\n\nbibtex data\n\nJSTOR secondary literature\ndimension.io\n\n\n\n\n\n\n\nextand publications Euler (Verdun), II.28?\ncorrespondence\nmanuscripts\ndata\ndigital platform"
-  },
-  {
-    "objectID": "member.html",
-    "href": "member.html",
-    "title": "Bernoulli-Euler-Kommission",
-    "section": "",
-    "text": "Members\n\nDr. Philip Beeley\n\nUniversity of Oxford\nphilip.beeley@history.ox.ac.uk\n\nDr. Maarten Bullynck (Maître de conférences)\n\nUniversité de Paris VIII (St. Denis)\nmaarten.bullynck@univ-paris8.fr\n\nProf. Dr. Gerd Graßhoff\n\nHumboldt Universität zu Berlin\ngerd.grasshoff@hu-berlin.de\n\nProf. Dr. Helmuth Harbrecht\n\nUniversität Basel\nhelmut.harbrecht@unibas.ch\n\nDr. Jeanne Peiffer (DR, directrice de recherche)\n\nCNRS, Cenre Alexandre Koyré\njeanne.peiffer@cnrs.fr\n\nDr. Alice Keller\n\nUniversitätsbibliothek Basel\n\nProf. Dr. Norbert Schappacher\n\nUniversité de Strasbourg\nn.schappacher@unistra.fr\n\nDr. Dirk Wintergrün\n\nKlassik Stiftung Weimar\ndirk.wintergruen@klassik-stiftung.de"
-  },
-  {
-    "objectID": "series.html",
-    "href": "series.html",
-    "title": "Bernoulli-Euler-Kommission",
-    "section": "",
-    "text": "Editorial board: Bernoulli-Euler-Kommission\n\n\n\n\n\n\n\n\\(\\LaTeX class\\) the same for all volumes\n\nManuscripts can be submitted in various formats\n\nMarkdown (Quarto)\nLaTeX Overleaf\n\n\nUniform font size, title page and page layout for all volumes\nHybrid publication by different media titles, page identical content\n\ndigital (BEG, Uni Basel, UB), ISSN\nprint (Publisher to be negotiated), ISBN\ncomputational book, ISBN\n\nNew volumes increase the series IVA counter\n\nE.g. Euler-Condorcet becomes IVA 9\nFollowed e.g. Euler-alia, IVA 10\n\nOnly internal links, no external links\n\n\n\n\nSample Reference (see also Appendix) of Gilain, Hug, and Taton (2022), p.12.\n\nGilain, Christian, Vanja Hug, and Pierre Taton, eds. 2022. Correspondance de Leonhard Euler avec M.J.A.N. Caritat, Marquis de Condorcet et A.R.J. Turgot: Euler Opera Omnia, Series Quarta IVA 9. Vol. 5. Publikationen des Bernoulli-Euler-Zentrums. Basel: Bernoulli-Euler-Gesellschaft. https://doi.org/10.1007/BF01897804.\nFields Biblatex\n@book{Euler-Condorcet,\n  editor = {Christian Gilain and Vanja Hug and Pierre Taton},\n  title = {Correspondance {de} Leonhard Euler {avec} {M.J.A.N. Caritat}, {Marquis de Condorcet} {et A.R.J. Turgot}},\n  subtitle = {Euler Opera Omnia, Series Quarta {IVA 9}},\n  series = {Publikationen {des} Bernoulli-Euler-Zentrums},\n  issn = {0036-8075-5},\n  volume = {5},\n  year = {2022},\n  abstract = {},\n  keywords = {},\n  publisher = {Bernoulli-Euler-Gesellschaft},\n  address = {Basel},\n  isbn = {978-3-540-74400-2},\n  doi = {10.1007/BF01897804},\n  url = {http://doi.org/10.1007/BF01897804},\n  note = {},\n  language = {English},\n  }\n\n\n\n\n\n\n\n\nPublished on Zenodo in moderated community “Bernoulli-Euler-Kommission”\n\nEOO database\nEneström database\nBibTex database\nOWL ontology\n\nPerson\nGeolocation\n\n\n\n\n\n\n\nanNotes\n\n\nquarto publication\nobservable"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Bernoulli-Euler-Kommission",
-    "section": "",
-    "text": "The Bernoulli-Euler-Kommission is the scientific board of the Bernoulli-Euler-Gesellschaft. The society is a member society of the Swiss Academy of Science (SCNAT) dedicated to the promotion of the scientific contribution of Leonhard Euler and members of the Bernoulli family."
+    "text": "Opera Bernoulli Euler digital\n\n\n\n\nLanding page\nLanding page"
   },
   {
     "objectID": "about.html",
@@ -42,45 +14,108 @@
     "text": "About this site"
   },
   {
+    "objectID": "member.html",
+    "href": "member.html",
+    "title": "Members",
+    "section": "",
+    "text": "Members\n\nDr. Philip Beeley\n\nUniversity of Oxford\nphilip.beeley@history.ox.ac.uk\n\nDr. Maarten Bullynck (Maître de conférences)\n\nUniversité de Paris VIII (St. Denis)\nmaarten.bullynck@univ-paris8.fr\n\nProf. Dr. Gerd Graßhoff\n\nHumboldt Universität zu Berlin\ngerd.grasshoff@hu-berlin.de\n\nProf. Dr. Helmuth Harbrecht\n\nUniversität Basel\nhelmut.harbrecht@unibas.ch\n\nDr. Jeanne Peiffer (DR, directrice de recherche)\n\nCNRS, Cenre Alexandre Koyré\njeanne.peiffer@cnrs.fr\n\nProf. Dr. Norbert Schappacher\n\nUniversité de Strasbourg\nn.schappacher@unistra.fr\n\nDr. Dirk Wintergrün\n\nKlassik Stiftung Weimar\ndirk.wintergruen@klassik-stiftung.de"
+  },
+  {
+    "objectID": "Euler.html",
+    "href": "Euler.html",
+    "title": "Series",
+    "section": "",
+    "text": "Series\nSerie Prima | Mathematics |\nSerie Secunda | Physics |\nSerie Tertia | Mechanics, Astronomy |\nSerie Quarta A | Correspondence |\nSerie Quarta B | Manuscripts |\nSerie Quinta | Data |\nSerie Sexta | Contributions |"
+  },
+  {
+    "objectID": "todo.html",
+    "href": "todo.html",
+    "title": "Todo / Ideas / Notes",
+    "section": "",
+    "text": "Transfer\n\nUnfinished correspondence\n\nPolicies\nDocuments\nReglemente\nArchives\ndata\n\nEneström\nEuler Opera Omnia\nCorrespondence\nRegisters\n\nPerson index\nGeo-location index\nSubject index\n\nBibliographies\n\nbibtex data\n\nJSTOR secondary literature\ndimension.io\n\n\n\n\n\n\n\nextand publications Euler (Verdun), II.28?\ncorrespondence\nmanuscripts\ndata\ndigital platform"
+  },
+  {
+    "objectID": "todo.html#euler",
+    "href": "todo.html#euler",
+    "title": "Todo / Ideas / Notes",
+    "section": "",
+    "text": "Transfer\n\nUnfinished correspondence\n\nPolicies\nDocuments\nReglemente\nArchives\ndata\n\nEneström\nEuler Opera Omnia\nCorrespondence\nRegisters\n\nPerson index\nGeo-location index\nSubject index\n\nBibliographies\n\nbibtex data\n\nJSTOR secondary literature\ndimension.io\n\n\n\n\n\n\n\nextand publications Euler (Verdun), II.28?\ncorrespondence\nmanuscripts\ndata\ndigital platform"
+  },
+  {
+    "objectID": "series.html",
+    "href": "series.html",
+    "title": "Publication serie",
+    "section": "",
+    "text": "Editorial board: Bernoulli-Euler-Kommission\n\n\n\n\n\n\n\n\\(\\LaTeX class\\) the same for all volumes\n\nManuscripts can be submitted in various formats\n\nMarkdown (Quarto)\nLaTeX Overleaf\n\n\nUniform font size, title page and page layout for all volumes\nHybrid publication by different media titles, page identical content\n\ndigital (BEG, Uni Basel, UB), ISSN\nprint (Publisher to be negotiated), ISBN\ncomputational book, ISBN\n\nNew volumes increase the series IVA counter\n\nE.g. Euler-Condorcet becomes IVA 9\nFollowed e.g. Euler-alia, IVA 10\n\nOnly internal links, no external links\n\n\n\n\nSample Reference (see also Appendix) of Gilain, Hug, and Taton (2022), p.12.\n\nGilain, Christian, Vanja Hug, and Pierre Taton, eds. 2022. Correspondance de Leonhard Euler avec M.J.A.N. Caritat, Marquis de Condorcet et A.R.J. Turgot: Euler Opera Omnia, Series Quarta IVA 9. Vol. 5. Publikationen des Bernoulli-Euler-Zentrums. Basel: Bernoulli-Euler-Gesellschaft. https://doi.org/10.1007/BF01897804.\nFields Biblatex\n@book{Euler-Condorcet,\n  editor = {Christian Gilain and Vanja Hug and Pierre Taton},\n  title = {Correspondance {de} Leonhard Euler {avec} {M.J.A.N. Caritat}, {Marquis de Condorcet} {et A.R.J. Turgot}},\n  subtitle = {Euler Opera Omnia, Series Quarta {IVA 9}},\n  series = {Publikationen {des} Bernoulli-Euler-Zentrums},\n  issn = {0036-8075-5},\n  volume = {5},\n  year = {2022},\n  abstract = {},\n  keywords = {},\n  publisher = {Bernoulli-Euler-Gesellschaft},\n  address = {Basel},\n  isbn = {978-3-540-74400-2},\n  doi = {10.1007/BF01897804},\n  url = {http://doi.org/10.1007/BF01897804},\n  note = {},\n  language = {English},\n  }\n\n\n\n\n\n\n\n\nPublished on Zenodo in moderated community “Bernoulli-Euler-Kommission”\n\nEOO database\nEneström database\nBibTex database\nOWL ontology\n\nPerson\nGeolocation\n\n\n\n\n\n\n\nanNotes\n\n\nquarto publication\nobservable"
+  },
+  {
+    "objectID": "series.html#editorial-board-redaction-and-editors",
+    "href": "series.html#editorial-board-redaction-and-editors",
+    "title": "Publication serie",
+    "section": "",
+    "text": "Editorial board: Bernoulli-Euler-Kommission"
+  },
+  {
+    "objectID": "series.html#serie",
+    "href": "series.html#serie",
+    "title": "Publication serie",
+    "section": "",
+    "text": "\\(\\LaTeX class\\) the same for all volumes\n\nManuscripts can be submitted in various formats\n\nMarkdown (Quarto)\nLaTeX Overleaf\n\n\nUniform font size, title page and page layout for all volumes\nHybrid publication by different media titles, page identical content\n\ndigital (BEG, Uni Basel, UB), ISSN\nprint (Publisher to be negotiated), ISBN\ncomputational book, ISBN\n\nNew volumes increase the series IVA counter\n\nE.g. Euler-Condorcet becomes IVA 9\nFollowed e.g. Euler-alia, IVA 10\n\nOnly internal links, no external links\n\n\n\n\nSample Reference (see also Appendix) of Gilain, Hug, and Taton (2022), p.12.\n\nGilain, Christian, Vanja Hug, and Pierre Taton, eds. 2022. Correspondance de Leonhard Euler avec M.J.A.N. Caritat, Marquis de Condorcet et A.R.J. Turgot: Euler Opera Omnia, Series Quarta IVA 9. Vol. 5. Publikationen des Bernoulli-Euler-Zentrums. Basel: Bernoulli-Euler-Gesellschaft. https://doi.org/10.1007/BF01897804.\nFields Biblatex\n@book{Euler-Condorcet,\n  editor = {Christian Gilain and Vanja Hug and Pierre Taton},\n  title = {Correspondance {de} Leonhard Euler {avec} {M.J.A.N. Caritat}, {Marquis de Condorcet} {et A.R.J. Turgot}},\n  subtitle = {Euler Opera Omnia, Series Quarta {IVA 9}},\n  series = {Publikationen {des} Bernoulli-Euler-Zentrums},\n  issn = {0036-8075-5},\n  volume = {5},\n  year = {2022},\n  abstract = {},\n  keywords = {},\n  publisher = {Bernoulli-Euler-Gesellschaft},\n  address = {Basel},\n  isbn = {978-3-540-74400-2},\n  doi = {10.1007/BF01897804},\n  url = {http://doi.org/10.1007/BF01897804},\n  note = {},\n  language = {English},\n  }"
+  },
+  {
+    "objectID": "series.html#serie-quinta-data",
+    "href": "series.html#serie-quinta-data",
+    "title": "Publication serie",
+    "section": "",
+    "text": "Published on Zenodo in moderated community “Bernoulli-Euler-Kommission”\n\nEOO database\nEneström database\nBibTex database\nOWL ontology\n\nPerson\nGeolocation"
+  },
+  {
+    "objectID": "series.html#serie-sexta-contributions",
+    "href": "series.html#serie-sexta-contributions",
+    "title": "Publication serie",
+    "section": "",
+    "text": "anNotes\n\n\nquarto publication\nobservable"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Bernoulli-Euler-Kommission",
+    "section": "",
+    "text": "The Bernoulli-Euler-Kommission is the scientific board of the Bernoulli-Euler-Gesellschaft. The society is a member society of the Swiss Academy of Science (SCNAT) dedicated to the promotion of the scientific contribution of Leonhard Euler and members of the Bernoulli family."
+  },
+  {
     "objectID": "quarto_ext.html",
     "href": "quarto_ext.html",
-    "title": "Bernoulli-Euler-Kommission",
+    "title": "Quarto extensions",
     "section": "",
     "text": "https://meghan.rbind.io/blog/quarto-slides/#finding-elements-to-customize\nA box with text and style in curly braces"
   },
   {
     "objectID": "quarto_ext.html#latex-equations",
     "href": "quarto_ext.html#latex-equations",
-    "title": "Bernoulli-Euler-Kommission",
+    "title": "Quarto extensions",
     "section": "LaTeX Equations",
     "text": "LaTeX Equations\nMathJax rendering of equations to HTML\n\n\n\\begin{gather*}\na_1=b_1+c_1\\\\\na_2=b_2+c_2-d_2+e_2\n\\end{gather*}\n\\begin{align}\na_{11}& =b_{11}&\n  a_{12}& =b_{12}\\\\\na_{21}& =b_{21}&\n  a_{22}& =b_{22}+c_{22}\n\\end{align}\n\n\\[\\begin{gather*}\na_1=b_1+c_1\\\\\na_2=b_2+c_2-d_2+e_2\n\\end{gather*}\\]\n\\[\\begin{align}\na_{11}& =b_{11}&\n  a_{12}& =b_{12}\\\\\na_{21}& =b_{21}&\n  a_{22}& =b_{22}+c_{22}\n\\end{align}\\]\n\n\n\nLearn more: LaTeX Equations"
   },
   {
     "objectID": "quarto_ext.html#column-layout",
     "href": "quarto_ext.html#column-layout",
-    "title": "Bernoulli-Euler-Kommission",
+    "title": "Quarto extensions",
     "section": "Column Layout",
     "text": "Column Layout\nArrange content into columns of varying widths:\n\n\n\nMotor Trend Car Road Tests\nThe data was extracted from the 1974 Motor Trend US magazine, and comprises fuel consumption and 10 aspects of automobile design and performance for 32 automobiles.\n\n\n\n\n\n\n\n\nLearn more: Multiple Columns"
   },
   {
     "objectID": "quarto_ext.html#incremental-lists-all-for-reveal",
     "href": "quarto_ext.html#incremental-lists-all-for-reveal",
-    "title": "Bernoulli-Euler-Kommission",
+    "title": "Quarto extensions",
     "section": "Incremental Lists (all for reveal)",
-    "text": "Incremental Lists (all for reveal)\nLists can optionally be displayed incrementally:\n\n\nFirst item\nSecond item\nThird item\n\n\n\n Insert pauses to make other types of content display incrementally.\n\nLearn more: Incremental Lists"
+    "text": "Incremental Lists (all for reveal)\nLists can optionally be displayed incrementally:\n\n\nFirst item\nSecond item\nThird item\n\n\n. . .\n Insert pauses to make other types of content display incrementally.\n\nLearn more: Incremental Lists"
   },
   {
     "objectID": "quarto_ext.html#fragments",
     "href": "quarto_ext.html#fragments",
-    "title": "Bernoulli-Euler-Kommission",
+    "title": "Quarto extensions",
     "section": "Fragments",
-    "text": "Fragments\nIncremental text display and animation with fragments:\n\n\nFade in\n\n\nSlide up while fading in\n\n\nSlide left while fading in\n\n\nFade in then semi out\n\n\n\nStrike\n\n\nHighlight red\n\n\nLearn more: Fragments"
-  },
-  {
-    "objectID": "OperaBernoulliEuler.html",
-    "href": "OperaBernoulliEuler.html",
-    "title": "Bernoulli-Euler-Kommission",
-    "section": "",
-    "text": "Opera Bernoulli Euler digital\n\n\n\n\nLanding page\nLanding page"
+    "text": "Fragments\nIncremental text display and animation with fragments:\n\n\nFade in\n\n\nSlide up while fading in\n\n\nSlide left while fading in\n\n\nFade in then semi out\n\n. . .\n\nStrike\n\n\nHighlight red\n\n\nLearn more: Fragments"
   }
 ]
