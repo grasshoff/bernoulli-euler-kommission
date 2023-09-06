@@ -25,7 +25,7 @@
     "href": "Euler.html",
     "title": "Series",
     "section": "",
-    "text": "Series\nSerie Prima | Mathematics |\nSerie Secunda | Physics |\nSerie Tertia | Mechanics, Astronomy |\nSerie Quarta A | Correspondence |\nSerie Quarta B | Manuscripts |\nSerie Quinta | Data |\nSerie Sexta | Contributions |"
+    "text": "Series\nSeries Prima | Mathematics |\nSeries Secunda | Physics |\nSeries Tertia | Mechanics, Astronomy |\nSeries Quarta A | Correspondence |\nSeries Quarta B | Manuscripts |\nSeries Quinta | Data |\nSeries Sexta | Contributions |"
   },
   {
     "objectID": "todo.html",
@@ -79,9 +79,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Bernoulli-Euler-Kommission",
+    "title": "Bernoulli Euler Kommission",
     "section": "",
-    "text": "The Bernoulli-Euler-Kommission is the scientific board of the Bernoulli-Euler-Gesellschaft."
+    "text": "The Bernoulli-Euler-Kommission is the scientific board of the Bernoulli-Euler-Gesellschaft, a member society of Swiss Academy of Sciences (SCNAT). It is responsible for the planning, supervision and evaluation of all scholarly projects related to the edition, publication and computational presentation of the works of the Bernoulli family and Leonhard Euler.\nObjective:\n\nReference editions of the works and correspondence of Leonhard Euler and the members of the Bernoulli family\nData publication of research data related to the editions in their historical context according to the FAIR rules\nDevelopment of a digital research environment for the editions and data integrating current AI methods and LLM models for accessing of the texts"
   },
   {
     "objectID": "quarto_ext.html",
