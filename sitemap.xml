@@ -1,39 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://grasshoff.github.io/bernoulli-euler-kommission/OperaBernoulliEuler.html</loc>
-    <lastmod>2022-09-20T11:47:06.000Z</lastmod>
+    <loc>https://grasshoff.github.io/bernoulli-euler-kommission/BEKmeeting1.html</loc>
+    <lastmod>2023-09-06T11:12:46.066Z</lastmod>
   </url>
   <url>
-    <loc>https://grasshoff.github.io/bernoulli-euler-kommission/about.html</loc>
-    <lastmod>2022-07-26T09:13:43.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://grasshoff.github.io/bernoulli-euler-kommission/euleroo.html</loc>
-    <lastmod>2023-09-06T10:42:17.309Z</lastmod>
-  </url>
-  <url>
-    <loc>https://grasshoff.github.io/bernoulli-euler-kommission/member.html</loc>
-    <lastmod>2023-07-31T07:55:46.850Z</lastmod>
-  </url>
-  <url>
-    <loc>https://grasshoff.github.io/bernoulli-euler-kommission/Euler.html</loc>
-    <lastmod>2023-09-06T10:23:10.489Z</lastmod>
-  </url>
-  <url>
-    <loc>https://grasshoff.github.io/bernoulli-euler-kommission/todo.html</loc>
-    <lastmod>2022-07-26T16:37:07.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://grasshoff.github.io/bernoulli-euler-kommission/series.html</loc>
-    <lastmod>2023-07-31T08:03:18.294Z</lastmod>
+    <loc>https://grasshoff.github.io/bernoulli-euler-kommission/quarto_ext.html</loc>
+    <lastmod>2022-09-01T09:03:19.000Z</lastmod>
   </url>
   <url>
     <loc>https://grasshoff.github.io/bernoulli-euler-kommission/index.html</loc>
     <lastmod>2023-09-06T10:17:50.912Z</lastmod>
   </url>
   <url>
-    <loc>https://grasshoff.github.io/bernoulli-euler-kommission/quarto_ext.html</loc>
-    <lastmod>2022-09-01T09:03:19.000Z</lastmod>
+    <loc>https://grasshoff.github.io/bernoulli-euler-kommission/series.html</loc>
+    <lastmod>2023-07-31T08:03:18.294Z</lastmod>
+  </url>
+  <url>
+    <loc>https://grasshoff.github.io/bernoulli-euler-kommission/todo.html</loc>
+    <lastmod>2023-09-06T11:07:24.903Z</lastmod>
+  </url>
+  <url>
+    <loc>https://grasshoff.github.io/bernoulli-euler-kommission/Euler.html</loc>
+    <lastmod>2023-09-06T10:23:10.489Z</lastmod>
+  </url>
+  <url>
+    <loc>https://grasshoff.github.io/bernoulli-euler-kommission/member.html</loc>
+    <lastmod>2023-09-06T10:54:27.643Z</lastmod>
+  </url>
+  <url>
+    <loc>https://grasshoff.github.io/bernoulli-euler-kommission/euleroo.html</loc>
+    <lastmod>2023-09-06T10:42:17.309Z</lastmod>
+  </url>
+  <url>
+    <loc>https://grasshoff.github.io/bernoulli-euler-kommission/about.html</loc>
+    <lastmod>2022-07-26T09:13:43.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://grasshoff.github.io/bernoulli-euler-kommission/OperaBernoulliEuler.html</loc>
+    <lastmod>2022-09-20T11:47:06.000Z</lastmod>
   </url>
 </urlset>
